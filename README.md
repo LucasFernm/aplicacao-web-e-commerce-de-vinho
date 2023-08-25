@@ -1,11 +1,8 @@
 # Pi_Programacao_Objeto_SENAC
 
-<h1>Projeto Integrador SENAC 3º Semestre</h1>
+<h4>Projeto Integrador SENAC 3º Semestre</h4>
 
-  Grupo: Altieres Capim
-         Danillo Nunes 
-         Gustavo Enrico
-         Lucas Fernandes
+  *Grupo: Altieres Capim, Danillo Nunes, Gustavo Enrico, Lucas Fernandes.*
 
 
 Aplicação WEB - Front, back e banco;
