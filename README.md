@@ -1,4 +1,4 @@
-# Pi_Programacao_Objeto_SENAC
+# Aplicação Web - E-commerce de vinho
 
 <h4>Projeto Integrador SENAC 3º Semestre</h4>
 
