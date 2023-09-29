@@ -2,7 +2,7 @@
 
 <h4>Projeto Integrador SENAC 3º Semestre</h4>
 
-_Grupo: Altieres Capim, Danillo Nunes, Gustavo Enrico, Lucas Fernandes, Mariana Muniz, Sabrina Ribas_
+_Grupo: Altieres Capim, Danillo Nunes, Gustavo Enrico, Mariana Muniz, Sabrina Ribas_
 
 Aplicação WEB - Front, back e banco;
 
